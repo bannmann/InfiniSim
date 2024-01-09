@@ -1,5 +1,6 @@
 # [InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim)
 
+
 [![Build InfiniSim LVGL Simulator](https://github.com/InfiniTimeOrg/InfiniSim/actions/workflows/lv_sim.yml/badge.svg)](https://github.com/InfiniTimeOrg/InfiniSim/actions/workflows/lv_sim.yml)
 
 Simulator for [InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) project.
